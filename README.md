@@ -25,5 +25,5 @@ our style
 2.sporty
 3.avant-garde
 
-Range Prize
+Range Price
 RM 200 - RM 14,500
